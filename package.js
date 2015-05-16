@@ -14,6 +14,7 @@ Package.describe({
 Package.onUse(function(api) {
   api.versionsFrom('1.1.0.2');
   api.addFiles('diacritics.js');
+  api.export('Diacritics');
 });
 
 Package.onTest(function(api) {

@@ -1,8 +1,9 @@
 /*
     Simple packages tests
  */
-Tinytest.add('example', function (test) {
+Tinytest.add('Test diacritics remove function', function (test) {
 
+    
     test.equal(Diacritics.remove("Iлｔèｒｎåｔïｏｎɑｌíƶａｔï߀ԉ"),
         "Internationalizati0n");
 
