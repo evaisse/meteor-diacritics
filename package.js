@@ -10,7 +10,6 @@ Package.describe({
   documentation: 'README.md'
 });
 
-Npm.depends({ diacritics: "1.2.*"});
 
 Package.onUse(function(api) {
   api.versionsFrom('1.1.0.2');
