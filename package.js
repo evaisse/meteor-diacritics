@@ -1,6 +1,6 @@
 Package.describe({
   name: 'evaisse:diacritics',
-  version: '0.0.1',
+  version: '1.0.1',
   // Brief, one-line summary of the package.
   summary: 'Removes accents / diacritics from strings, sentences, and paragraphs fast and efficiently.',
   // URL to the Git repository containing the source code for this package.
