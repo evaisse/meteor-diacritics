@@ -2,6 +2,9 @@
 meteor evaisse:diacritics
 ----
 
+[![testing](https://travis-ci.org/evaisse/meteor-diacritics.svg?branch=master)](https://travis-ci.org/evaisse/meteor-diacritics)
+
+
 Removes accents / diacritics from strings, sentences, and paragraphs fast and efficiently.
 
 
